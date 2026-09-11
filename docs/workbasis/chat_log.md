@@ -11,8 +11,8 @@
 ## 2026-09-11 (aus der mec_demo-Session heraus)
 - Ordner war kein Git-Repo. User-Entscheid "A auf github": `git init` (main), Submodul
   `docs/shared_rules_knowledge/` (github.com/gdwbdd/shared_rules_knowledge, ADR 001 dort),
-  Remote `https://github.com/gdwbdd/testautomatisierung.git` gesetzt — Repo auf GitHub noch
-  anzulegen (User).
+  Remote `https://github.com/gdwbdd/Testautomatisierung.git`. Erster Push scheiterte (Repo
+  existierte nicht); User legte es an, Push 84dd7b4 danach erfolgreich.
 - `memory/repo/` (Copilot-Seed: open_points, chat_log, INDEX, architecture) nach `docs/workbasis/`
   überführt und gelöscht; `CLAUDE.md`, `copilot-instructions.md` (nur Leseordnung), `codex.md`
   (Projektteil), `adr/README.md`, `knowledge/terminologie.md`, `README.md` neu.

@@ -5,8 +5,8 @@
 > Jede Aussage: verifiziert (wie/wann) oder Annahme. Übernommen aus `memory/repo/knowledge/INDEX.md`.
 
 ## Verifizierte Fakten (Umgebung)
-- Git: lokal `main`, Remote `https://github.com/gdwbdd/testautomatisierung.git` (2026-09-11 gesetzt,
-  Repo auf GitHub noch anzulegen).
+- Git: Branch `main`, Remote `https://github.com/gdwbdd/Testautomatisierung.git` (Repo vom User am
+  2026-09-11 angelegt, erster Push 84dd7b4 am selben Tag).
 - Python / pytest; Venv `.\.venv\Scripts\Activate.ps1` (noch nicht angelegt, Stand 2026-09-11);
   `vs_code_setup.py` installiert Dependencies aus `pyproject.toml` per `uv` (Datei `pyproject.toml`
   existiert noch nicht).

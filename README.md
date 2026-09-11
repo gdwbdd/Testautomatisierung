@@ -14,7 +14,7 @@ laufen ins Leere.
 
 ```powershell
 # Neu klonen, Submodul direkt mit
-git clone --recurse-submodules https://github.com/gdwbdd/testautomatisierung.git
+git clone --recurse-submodules https://github.com/gdwbdd/Testautomatisierung.git
 
 # Bereits geklont, Ordner docs/shared_rules_knowledge ist leer
 git submodule update --init

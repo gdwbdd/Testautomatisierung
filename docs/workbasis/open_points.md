@@ -10,9 +10,8 @@
       `CLAUDE.md` mit `@`-Importen, `copilot-instructions.md` nur Leseordnung, `codex.md`
       Projektteil, `docs/workbasis/` aus `memory/repo/` überführt (Seed gelöscht), `adr/README.md`,
       `knowledge/terminologie.md`, `README.md` mit Klonabschnitt. Begründung: geteiltes ADR 001.
-- [ ] **GitHub-Repo `gdwbdd/testautomatisierung` existiert noch nicht** (verifiziert per
-      `git ls-remote`: "Repository not found"). Der Assistent kann es nicht anlegen (kein `gh`,
-      kein Token). User legt es leer an (ohne README/.gitignore), danach `git push -u origin main`.
+- [x] GitHub-Repo `gdwbdd/Testautomatisierung` vom User angelegt; erster Push 84dd7b4 erfolgreich
+      (vorher "Repository not found"; Assistent kann Repos nicht anlegen: kein `gh`, kein Token).
 - [ ] Prüfen (neue Session, `/context`): werden die zwei `@`-Importe aus dem Submodul geladen?
 - [ ] `PROJECT_PLAN.md` Abschnitte ab 1 fortschreiben; `Anforderungen.md`/`Vorarbeiten.md` sind
       die Quellen.
