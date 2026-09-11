@@ -1,0 +1,3 @@
+[submodule "docs/shared_rules_knowledge"]
+	path = docs/shared_rules_knowledge
+	url = https://github.com/gdwbdd/shared_rules_knowledge.git
