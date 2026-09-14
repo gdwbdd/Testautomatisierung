@@ -12,7 +12,9 @@
       `knowledge/terminologie.md`, `README.md` mit Klonabschnitt. Begründung: geteiltes ADR 001.
 - [x] GitHub-Repo `gdwbdd/Testautomatisierung` vom User angelegt; erster Push 84dd7b4 erfolgreich
       (vorher "Repository not found"; Assistent kann Repos nicht anlegen: kein `gh`, kein Token).
-- [ ] Prüfen (neue Session, `/context`): werden die zwei `@`-Importe aus dem Submodul geladen?
+- [x] Verifiziert 2026-09-11: frische `claude -p`-Instanz (ohne Werkzeuge) zitierte Motto und
+      Lernprozess 2026-08-14 aus dem Submodul, beide `@`-Importe geladen; zusätzlich geladen war
+      `MEMORY.md` des Projekts.
 - [ ] `PROJECT_PLAN.md` Abschnitte ab 1 fortschreiben; `Anforderungen.md`/`Vorarbeiten.md` sind
       die Quellen.
 
