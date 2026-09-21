@@ -1,8 +1,6 @@
 # Offene Punkte / Wiedervorlage (testautomatisierung)
 
-> Session-Start: ZUERST lesen. Session-Ende: ZULETZT aktualisieren. Neueste Abschnitte oben.
-> Handoff-Pflicht: jede "speichern & später vorlegen"-Zusage SOFORT hier ablegen.
-> Entscheidungen verweisen auf das ADR; hier bleiben nur Status und Wiedervorlage.
+> Neueste Abschnitte oben. Regeln zur Benutzung: geteilter Codex, Abschnitt "Workflow / Pflege".
 > Übernommen aus dem früheren Copilot-Memory-Seed `memory/repo/open_points.md` (dort: keine Einträge).
 
 ## 2026-09-11 — Git-Repo angelegt, geteiltes Regelwerk eingebunden (User: "A auf github")

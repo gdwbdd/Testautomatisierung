@@ -24,8 +24,7 @@
 
 ## Dev-Umgebung, Tests
 - Venv: `.\.venv\Scripts\Activate.ps1`; Test-Suite: `pytest` in der `.venv` ausführen.
-- Nach Code-Änderungen: Fehlerfreiheit prüfen und pytest laufen lassen (geteilte Regel);
-  Debug-Konfigurationen für pytest liegen in `.vscode/launch.json`.
+- Debug-Konfigurationen für pytest liegen in `.vscode/launch.json`.
 - Kein Deploy-Skript vorhanden.
 
 ## Abweichungen von den geteilten Regeln

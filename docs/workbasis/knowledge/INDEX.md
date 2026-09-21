@@ -2,7 +2,7 @@
 
 > Nur Projektfakten. Generisches (Nova, Isaac, Claude Code) steht in
 > `docs/shared_rules_knowledge/knowledge/INDEX.md` und wird hier nicht wiederholt.
-> Jede Aussage: verifiziert (wie/wann) oder Annahme. Übernommen aus `memory/repo/knowledge/INDEX.md`.
+> Übernommen aus `memory/repo/knowledge/INDEX.md`.
 
 ## Verifizierte Fakten (Umgebung)
 - Git: Branch `main`, Remote `https://github.com/gdwbdd/Testautomatisierung.git` (Repo vom User am

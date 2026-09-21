@@ -1,7 +1,7 @@
 # Chatverlauf / Kontext (testautomatisierung)
 
-> Selbstständig gepflegt, chronologisch. Übernommen aus dem früheren Copilot-Memory-Seed
-> `memory/repo/chat_log.md`.
+> Ein Abschnitt je Datum, chronologisch (Benutzung: geteilter Codex, "Workflow / Pflege").
+> Übernommen aus dem früheren Copilot-Memory-Seed `memory/repo/chat_log.md`.
 
 ## (Datum unbekannt, Juli 2026) – Projekt initialisiert
 - Meta-Ebene aus mec_demo übernommen (Regeln/Einstellungen), Code bewusst NICHT übernommen.
@@ -16,3 +16,9 @@
 - `memory/repo/` (Copilot-Seed: open_points, chat_log, INDEX, architecture) nach `docs/workbasis/`
   überführt und gelöscht; `CLAUDE.md`, `copilot-instructions.md` (nur Leseordnung), `codex.md`
   (Projektteil), `adr/README.md`, `knowledge/terminologie.md`, `README.md` neu.
+
+## 2026-09-21
+- Aus mec_demo heraus (User: "ja" auf Nachziehen + Bereinigen): Submodul shared_rules_knowledge auf den
+  aktuellen Stand gezogen; doppelter Regeltext in CLAUDE.md, copilot-instructions, Kopfnotizen von
+  open_points/chat_log/INDEX, adr/README und codex (pytest-Klausel) durch Zeiger auf den Codex ersetzt
+  (SSoT, Lernprozess 2026-09-21 im geteilten Repo). Regeltext selbst unveraendert.
